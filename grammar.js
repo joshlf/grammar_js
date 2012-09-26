@@ -2,20 +2,29 @@
 // Copyright 2012 The Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
+
+// A part can have multiple solutions, each of which is a list of parts,
+// or it can itself be a terminal
 function part() {
 	this.nm = "";
 	this.isTerminal = false;
 	this.solns = [];
 }
 
+// Initialize part with given name
 part.prototype.init = function(nm) {
 	this.nm = nm;
 	this.isTerminal = true;
 };
+
+// Add a single solution
 part.prototype.addSoln = function(soln) {
 	this.isTerminal = false;
 	this.solns.push(soln);
 };
+
+// A part's value consists either of its own name if it is a terminal,
+// or, if has children, the concatenation of the children of one possible solution.
 part.prototype.speak = function() {
 	if (this.isTerminal) 
 		return this.nm;
@@ -33,17 +42,23 @@ part.prototype.speak = function() {
 	}
 	return out;
 };
+
+// A grammar contains a list of parts of speech and a pointer to
+// the main parent node
 function grammar() {
 	this.initialized = false;
 	this.head = null;
 	this.part = [];
 }
 
+// Generate a random sentence
 grammar.prototype.speak = function() {
 	if (this.initialized) 
 		return this.head.speak();
 	return "Uninitialized Grammar";
 };
+
+// Find part with given name or create if none exists & return.
 grammar.prototype.findPart = function(name) {
 	// Check against function because some keys are
 	// preset (for example, try the following in a js console...)
@@ -57,6 +72,8 @@ grammar.prototype.findPart = function(name) {
 	}
 	return this.part[name];
 };
+
+// Initialize grammar with definition, file
 grammar.prototype.init = function(file) {
 	lines = file.split("\n");
 	var i = 0;
@@ -99,6 +116,8 @@ grammar.prototype.init = function(file) {
 	}
 	this.initialized = true;
 };
+
+// Add a solution to prt defined by def
 grammar.prototype.addRule = function(prt, def) {
 	prt = this.findPart(prt);
 	soln = [];
