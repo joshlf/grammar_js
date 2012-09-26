@@ -1,0 +1,255 @@
+Class
+Class Class1
+Class Class0
+Class Class0
+
+Class1 introduction to Class0
+Class1 advanced topics in Class0
+Class1 special topics in Class0
+
+Class0 Math_class
+Class0 Math_class
+Class0 CS_class0
+Class1 Language_class
+Class0 CS_class0
+Class0 PolySci_class0
+Class0 PolySci_class1
+Class0 Anthro_class
+Class0 Anthro_class
+Class0 History_class
+Class0 History_class
+Class0 Chem_class
+class0 Chem_class
+class0 Ad_language_class
+class0 psych_class2
+class0 psych_class1
+class0 psych_class0
+class0 bio_class
+class0 bio_class
+class0 econ_class
+class0 econ_class
+class0 socio_class
+class0 socio_class
+
+Math_class Math_topic
+Math_class abstract Math_topic
+Math_class proof-based Math_topic
+Math_class computational Math_topic
+Math_class calculus level
+
+Math_topic algebra
+Math_topic calculus
+Math_topic topology
+Math_topic number theory
+Math_topic probability
+Math_topic statistics
+Math_topic geometry
+
+CS_class0 CS_topic
+CS class0 CS_topic and CS_topic
+
+CS_topic operating systems
+CS_topic algorithms
+CS_topic computer science
+CS_topic data structures
+
+Language_class language level
+language english
+language french
+language spanish
+language chinese
+language german
+langage hebrew
+language arabic
+language italian
+
+level 1
+level 2
+level 3
+
+Ad_language_class time language litterature
+Ad_language_class language theatre
+Ad_language_class language film
+Ad_language_class time language poets
+Ad_language_class language surrealism
+Ad_language_class language comedy and satire
+
+PolySci_class0 comparitive? polysci_topic studies?
+PolySci_class0 reigon political thought
+PolySci_class1 polysci_topic and PolySci_class0
+PolySci_class1 a poly_philosophy approach to PolySci_class0
+PolySci_class1 an poly_philosophy_v approach to PolySci_class0
+
+comparitive? comparitive
+comparitive?
+comparitive?
+
+studies? studies
+studies?
+studies?
+
+poly_philosophy_v isolationist
+poly_philosophy multilateral
+poly_philosophy realist
+poly_philosophy marxist
+poly_philosophy liberal
+poly_philosophy constructivist
+poly_philosophy socialist
+poly_philosophy_v authoritarian
+poly_philosophy fascist
+poly_philosophy_v ethical
+
+polysci_topic revolutions
+polysci_topic war
+polysci_topic international relations
+polysci_topic politics
+polysci_topic_v economics
+polysci_topicuman rights
+polysci_topic foreign policy
+polysci_topic grand stategy
+polysci_topic political economy
+
+Anthro_class time reigon folk? dance
+Anthro_class time reigon culinary traditions
+Anthro_class time reigon folk? art
+Anthro_class time reigon geopolotical issues
+Anthro_class reigon gender discrepencies
+Anthro_class time reigon interclass relations
+Anthro_class reigon culture
+
+folk? folk
+folk?
+
+History_class time reigon history
+History_class time reigon reigon relations
+History_class reigon geography
+History_class reigon folk? myths and traditions
+History_class time science technology
+History_class reigon Religion studies?
+History_class time reigon art history
+History_class time folk? Anthro_class
+History_class reigon culture
+
+time
+time
+time 60's
+time 90's
+time modern
+time ancient
+time early
+time medieval
+time early modern
+time renaissance
+time reformation
+time cold war era
+time post-cold war era
+
+reigon reigon and reigon
+reigon American
+reigon Chinese
+reigon Irish
+reigon French
+reigon Global
+reigon Middle Eastern
+reigon Spanish
+reigon Venezuelan
+reigon South African
+reigon Australian
+reigon Latino
+reigon Jewish
+reigon Christian
+reigon Japanese
+reigon Filipino
+reigon Belgian 
+reigon Mexican
+reigon Colombian
+reigon Filipino
+reigon French
+reigon Latvian
+reigon Islamic
+
+Chem_class chem_topic chemestry lab?
+Chem_class chem_topic chemical engineering lab?
+
+chem_topic material
+chem_topic organic
+chem_topic inorganic
+chem_topic physical
+chem_topic structual
+chem_topic nuclear
+chem_topic molecular
+
+lab? (with lab)
+lab?
+
+psych_class2 psych_topic0 behavior
+psych_class2 psych_topic psych_class1
+psych_class1 psych_topic psych_class0
+psych_class0 psychology
+
+psych_topic cognitive
+psych_topic social
+psych_topic abnormal
+psych_topic behavioral
+psych_topic developmental
+psych_topic statistical
+psych_topic Experminatal
+psych_topic clinical
+psych_topic experimental 
+
+psych_topic0 drugs and
+psych_topic0 human sexual
+psych_topic0 society and
+psych_topic0 family
+
+bio_class bio_topic1 bio_topic2 lab?
+
+bio_topic2 biology
+bio_topic2 biology
+bio_topic2 ecology
+bio_topic2 microbology
+bio_topic2 entomology
+
+bio_toic1 population
+bio_topic marine
+bio_topic1 molecular
+bio_topic1 enviromental
+bio_topic1 cellular
+bio_topic1 genetic
+bio_topic1 physical
+bio_topic1 statistical
+bio_topic1 plant
+bio_topic1 evolutionary
+bio_topic1 developmental
+bio_topic1 organismal
+
+econ_class econ_starter econ_ender
+
+econ_starter international
+econ_starter enviromental
+econ_starter health
+econ_starter intermediate
+econ_starter quantative
+econ_starter finincial
+
+econ_ender microeconomic theory
+econ_ender macroeconomic theory
+econ_ender econometrics
+econ_ender finance
+
+socio_class soc_topic and soc_topic
+
+soc_topic sex
+soc_topic gender
+soc_topic war
+soc_topic peace
+soc_topic politics
+soc_topic media
+soc_topic religion
+soc_topic globalization
+soc_topic crime
+soc_topic race
+soc_topic society
+soc_topic technology
+soc_topic revolution
+soc_topic industry
